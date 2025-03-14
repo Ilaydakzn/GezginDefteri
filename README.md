@@ -1,5 +1,5 @@
 # GezginDefteri
- Anı Defteri – Gezilen Yerlerin Harita Üzerinde Kaydedilmesi ve Hatıra Saklama Uygulaması
+ Gezgin Defteri – Gezilen Yerlerin Harita Üzerinde Kaydedilmesi ve Hatıra Saklama Uygulaması
 
 Bu mobil uygulama kullanıcıların gezdikleri yerleri kaydedip, fotoğraflar ve notlar ekleyerek hatıralarını saklamalarına olanak tanır. Kullanıcılar, belirledikleri gezilecek yerlerin konum bilgilerini harita üzerinden alabilir ve bu yerler üzerinde gezdikçe kaydetmek istedikleri anıları fotoğraflar ve açıklamalarla kişisel olarak not edebilirler.
 Uygulama, kullanıcının gezdiği tüm yerleri harita üzerinde gösterir. Bu sayede kullanıcı, geçmişte ziyaret ettiği yerleri kolayca görüp, o yerlere dair hatıralarına erişebilir.
